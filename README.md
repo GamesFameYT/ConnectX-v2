@@ -1,1 +1,3 @@
-# ConnectX-v2
+# ConnectX v2
+
+Created by GamesFame only. Updates shortly soon.
